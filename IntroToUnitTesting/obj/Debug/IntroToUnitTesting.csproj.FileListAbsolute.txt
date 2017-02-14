@@ -1,0 +1,4 @@
+c:\users\nssstudent\documents\visual studio 2015\Projects\IntroToUnitTesting\IntroToUnitTesting\bin\Debug\IntroToUnitTesting.dll
+c:\users\nssstudent\documents\visual studio 2015\Projects\IntroToUnitTesting\IntroToUnitTesting\bin\Debug\IntroToUnitTesting.pdb
+c:\users\nssstudent\documents\visual studio 2015\Projects\IntroToUnitTesting\IntroToUnitTesting\obj\Debug\IntroToUnitTesting.dll
+c:\users\nssstudent\documents\visual studio 2015\Projects\IntroToUnitTesting\IntroToUnitTesting\obj\Debug\IntroToUnitTesting.pdb

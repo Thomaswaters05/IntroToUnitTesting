@@ -1,0 +1,8 @@
+c:\users\nssstudent\documents\visual studio 2015\Projects\IntroToUnitTesting\IntroToUnitTesting.test\bin\Debug\IntroToUnitTesting.test.dll
+c:\users\nssstudent\documents\visual studio 2015\Projects\IntroToUnitTesting\IntroToUnitTesting.test\bin\Debug\IntroToUnitTesting.test.pdb
+c:\users\nssstudent\documents\visual studio 2015\Projects\IntroToUnitTesting\IntroToUnitTesting.test\bin\Debug\IntroToUnitTesting.dll
+c:\users\nssstudent\documents\visual studio 2015\Projects\IntroToUnitTesting\IntroToUnitTesting.test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\nssstudent\documents\visual studio 2015\Projects\IntroToUnitTesting\IntroToUnitTesting.test\bin\Debug\IntroToUnitTesting.pdb
+c:\users\nssstudent\documents\visual studio 2015\Projects\IntroToUnitTesting\IntroToUnitTesting.test\obj\Debug\IntroToUnitTesting.test.csprojResolveAssemblyReference.cache
+c:\users\nssstudent\documents\visual studio 2015\Projects\IntroToUnitTesting\IntroToUnitTesting.test\obj\Debug\IntroToUnitTesting.test.dll
+c:\users\nssstudent\documents\visual studio 2015\Projects\IntroToUnitTesting\IntroToUnitTesting.test\obj\Debug\IntroToUnitTesting.test.pdb
